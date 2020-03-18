@@ -27,7 +27,7 @@
   "author": "Angelo Ashmore",
   "license": "MIT",
   "dependencies": {
-    "lunr": "^2.3.5",
+    "lunr": "^2.3.8",
     "memoize-one": "^5.0.0",
     "prop-types": "^15.7.2"
   },
