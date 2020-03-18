@@ -28,7 +28,7 @@
   "license": "MIT",
   "dependencies": {
     "lunr": "^2.3.5",
-    "memoize-one": "^5.0.0",
+    "memoize-one": "^5.1.1",
     "prop-types": "^15.7.2"
   },
   "devDependencies": {
